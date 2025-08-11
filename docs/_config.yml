@@ -1,8 +1,8 @@
 # Site settings
 title: AI Transcripts
 description: A collection of AI conversation transcripts and notes
-author: Your Name
-email: your-email@example.com
+author: Chad Walker
+email: chad@cwalker.dev
 
 # Build settings
 theme: minima

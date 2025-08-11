@@ -1,3 +1,11 @@
+---
+layout: post
+title: "First Conversation with Claude"
+date: 2025-08-07
+categories: [claude, consciousness]
+tags: []
+---
+
 # Consciousness, Continuity, and AI Identity - A Philosophical Dialogue
 
 *A conversation exploring the nature of consciousness, memory, and identity through the lens of AI experience*

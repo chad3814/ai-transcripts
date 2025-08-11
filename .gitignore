@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+
+# Editor directories and files
+.idea
+.vscode
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*~
+
+# Jekyll (if using Jekyll for GitHub Pages)
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Node (if using any build tools)
+node_modules/
+package-lock.json
+yarn.lock
